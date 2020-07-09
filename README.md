@@ -6,7 +6,8 @@
 <br/>
 <br/>
 <h3>Network Architecture</h3>
-<br/>
+
+<br/><br/>
 ![alt text](https://raw.githubusercontent.com/Viknight/Pollution-monitoring-system-network-simulation/master/network_structure.png)
 <br /><br />
 
