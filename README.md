@@ -6,8 +6,8 @@
 <br/>
 <br/>
 <h3>Network Architecture</h3>
-<br />
-
+<br/>
+![alt text](https://raw.githubusercontent.com/Viknight/Pollution-monitoring-system-network-simulation/master/network_structure.png)
 <br /><br />
 
 This system also proposes an alarm system which will notify the concerned authorities depending upon the level of smoke and carbon dioxide in the air present. The other IOT part of the system deals with the automation of the houses or facilities where the system is installed. This automated system will automatically open the doors and windows of the facility/house if the smoke
